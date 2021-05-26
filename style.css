@@ -1,3 +1,8 @@
 #profile-img {
   max-height: 22em;
 }
+#thanksContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
