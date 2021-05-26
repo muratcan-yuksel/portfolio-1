@@ -6,3 +6,14 @@
   flex-direction: column;
   align-items: center;
 }
+/* #carouselExampleCaptions {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+} */
+.carousel-item img {
+  width: 100%;
+}
+.carousel-inner img {
+  margin: auto;
+}
