@@ -10,18 +10,7 @@ body {
   flex-direction: column;
   align-items: center;
 }
-/* #carouselExampleCaptions {
-  width: 500px;
-  height: 500px;
-  border: 1px solid black;
-} */
-#carouselExampleDark {
-  border: 1em solid rgb(255, 255, 255);
-  border-radius: 5%;
-}
-.text {
-  font-size: 3em;
-}
+
 .carousel-item img {
   width: 100%;
 }
