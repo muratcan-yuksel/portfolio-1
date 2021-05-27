@@ -1,3 +1,7 @@
+body {
+  color: white !important;
+}
+
 #profile-img {
   max-height: 22em;
 }
@@ -12,7 +16,11 @@
   border: 1px solid black;
 } */
 #carouselExampleDark {
-  border: 1px solid black;
+  border: 1em solid rgb(255, 255, 255);
+  border-radius: 5%;
+}
+.text {
+  font-size: 3em;
 }
 .carousel-item img {
   width: 100%;
