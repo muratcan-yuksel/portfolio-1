@@ -11,6 +11,9 @@
   height: 500px;
   border: 1px solid black;
 } */
+#carouselExampleDark {
+  border: 1px solid black;
+}
 .carousel-item img {
   width: 100%;
 }
