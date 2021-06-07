@@ -1,0 +1,331 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"visible": true,
+		"items": [
+			{
+				"institution": "University of Tartu",
+				"field": "Semiotics",
+				"degree": "MA",
+				"gpa": "",
+				"startDate": "2017-09-01",
+				"endDate": "2020-06-20",
+				"summary": "",
+				"id": "33bd22b2-e202-4c74-aac8-642d7139a097"
+			},
+			{
+				"institution": "L'Université Bordeaux-Montaigne",
+				"field": "L'études de Communication",
+				"degree": "M2 (Erasmus +)",
+				"gpa": "",
+				"startDate": "2018-09-01",
+				"endDate": "2019-06-17",
+				"summary": "",
+				"id": "eeba0f50-5c0c-4f27-b080-44f17fcc4333"
+			},
+			{
+				"institution": "Eötvös Lorànd University/Budapest",
+				"field": "Comparative Literature",
+				"degree": "BA(Erasmus+)",
+				"gpa": "",
+				"startDate": "",
+				"endDate": "",
+				"summary": "",
+				"id": "84d4d856-b1da-403d-a91b-d41ba1f7fbee"
+			},
+			{
+				"institution": "Eskişehir Osmangazi University",
+				"field": "Comparative Literature",
+				"degree": "BA",
+				"gpa": "",
+				"startDate": "",
+				"endDate": "",
+				"summary": "",
+				"id": "9dd2c842-b4a1-4041-b6fd-c2b5bbc686a9"
+			}
+		]
+	},
+	"hobbies": {
+		"heading": "",
+		"visible": true,
+		"items": [
+			{
+				"name": "Yoga",
+				"id": "c3013365-b6ee-4603-97b6-5761d5f5810e",
+				"isVisible": false
+			},
+			{
+				"name": "Mindfulness meditation",
+				"id": "453b5aaa-8916-4dde-9e6f-1884eaf6d234",
+				"isVisible": false
+			}
+		]
+	},
+	"languages": {
+		"heading": "Languages",
+		"visible": true,
+		"items": [
+			{
+				"name": "English",
+				"fluency": "----",
+				"id": "77a688af-2a4f-4764-b534-6d87b9e66caf",
+				"isVisible": true
+			},
+			{
+				"name": "French",
+				"fluency": "----",
+				"id": "e76beeb5-1541-4a8a-aa63-8025243ce67e",
+				"isVisible": true
+			},
+			{
+				"name": "Turkish",
+				"fluency": "----",
+				"id": "9c241d0c-c671-4945-97ae-370208766aa3",
+				"isVisible": true
+			}
+		]
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#41991c",
+			"text": "#444444"
+		},
+		"font": "Rubik",
+		"fontSize": "10",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "gengar"
+	},
+	"objective": {
+		"body": "Hello, world! I like creating engaging web applications. I'm open for interesting offers.",
+		"heading": "Self-taught web developer",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIzMDkxNDgz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=400",
+	"profile": {
+		"address": {
+			"city": "",
+			"line1": "",
+			"line2": "",
+			"pincode": ""
+		},
+		"birthDate": "",
+		"email": "muratcanyukselpro@gmail.com",
+		"firstName": "Murat Can",
+		"heading": "Profile",
+		"lastName": "Yüksel",
+		"photograph": "",
+		"subtitle": "",
+		"website": "https://muratcan-yuksel.github.io/portfolio-1/"
+	},
+	"projects": {
+		"heading": "Projects",
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"visible": true,
+		"items": [
+			{
+				"name": "ReactJS",
+				"level": "",
+				"id": "05529c01-18f8-4486-b582-dc92b389fc6f"
+			},
+			{
+				"name": "Javascript(ES6)",
+				"level": "",
+				"id": "2ec10f37-7f0e-41d4-8b6d-90fe6b465d05"
+			},
+			{
+				"name": "Bootstrap 5",
+				"level": "",
+				"id": "b495b2e7-8d2e-4cf3-a223-61cca9a7e999"
+			},
+			{
+				"name": "CSS 3",
+				"level": "",
+				"id": "b7716221-21eb-41cb-a121-89ca5dad9105",
+				"isVisible": true
+			},
+			{
+				"name": "HTML 5",
+				"level": "",
+				"id": "1e8a18cc-a287-48b7-b237-71de36ece94e",
+				"isVisible": true
+			},
+			{
+				"name": "Gatsby JS",
+				"level": "",
+				"id": "74ce62e6-b2ff-4a88-afac-4ad9b07d3488"
+			},
+			{
+				"name": "Firebase",
+				"level": "",
+				"id": "1324a97a-d368-4801-bc72-5895abbfd29d"
+			},
+			{
+				"name": "Webpack",
+				"level": "",
+				"id": "6b43455d-99d3-4b50-9749-b50585252014"
+			},
+			{
+				"name": "Git",
+				"level": "",
+				"id": "da8dc532-3cf8-44dc-bbee-0c902a628cc7"
+			}
+		]
+	},
+	"social": {
+		"heading": "Social Network",
+		"visible": true,
+		"items": [
+			{
+				"url": "https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/",
+				"network": "LinkedIn",
+				"username": "My LinkedIn Profile",
+				"id": "f1b6a367-3dd0-49f0-8ebe-8640eb40fab3"
+			},
+			{
+				"url": "https://twitter.com/CodingSirius",
+				"network": "Twitter",
+				"username": "My Twitter ",
+				"id": "ddecd383-6610-4038-a7b3-17eff3fcd68d"
+			},
+			{
+				"url": "https://muratcanyuksel.hashnode.dev/",
+				"network": "HashNode",
+				"username": "My blog",
+				"id": "d9ce2746-2948-45b1-b3a5-5690a97b4975"
+			}
+		]
+	},
+	"work": {
+		"heading": "Work Experience",
+		"visible": true,
+		"items": [
+			{
+				"company": "Inter-Media Bruxelles",
+				"position": "Journalist",
+				"website": "",
+				"startDate": "",
+				"endDate": "",
+				"summary": "",
+				"id": "9a706fab-cd37-40f7-9da0-2179954e468a"
+			}
+		]
+	}
+}
